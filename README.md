@@ -1,3 +1,4 @@
+[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3930550&assignment_repo_type=AssignmentRepo)
 # HigherNamePrintingTask
 
 A teacher has a class list and wants a program to allow her to choose a number then be given a list of students seperated by that, for example 2 would give every second name in the list or 3 would give every third name in the list
